@@ -15,7 +15,7 @@ export function GrantReport() {
   const [selectedGrant, setSelectedGrant] = useState<string>('');
   const [selectedMonth, setSelectedMonth] = useState<string>('');
   const { data: months } = useGrantMonths(selectedGrant || null);
-  const { data: report, loading } = useGrantReport(selectedGrant || null, selectedMonth || null);
+  const { data: report, loading, error: reportError } = useGrantReport(selectedGrant || null, selectedMonth || null);
   const [narrative, setNarrative] = useState<NarrativeResult | null>(null);
   const [generating, setGenerating] = useState(false);
   const [genError, setGenError] = useState<string | null>(null);
@@ -98,6 +98,19 @@ export function GrantReport() {
 
         {selectedGrant && loading && <PageSpinner />}
 
+        {selectedGrant && !loading && reportError && (
+          <div className="rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-700">
+            {reportError} — check that the backend is running and the grant ID is valid.
+          </div>
+        )}
+
+        {selectedGrant && !loading && !reportError && !report && (
+          <div className="text-center py-16 text-gray-400">
+            <div className="text-4xl mb-3">📭</div>
+            <p className="text-sm">No report data found for this selection.</p>
+          </div>
+        )}
+
         {report && !loading && (
           <>
             <Card className="p-5">
@@ -130,12 +143,10 @@ export function GrantReport() {
               </div>
             </Card>
 
-            {perf && (
-              <Card className="p-5">
-                <h3 className="text-sm font-semibold text-gray-700 mb-2">Milestone Status</h3>
-                <p className="text-sm text-gray-600">{report.milestoneSummary}</p>
-              </Card>
-            )}
+            <Card className="p-5">
+              <h3 className="text-sm font-semibold text-gray-700 mb-2">Milestone Status</h3>
+              <p className="text-sm text-gray-600">{report.milestoneSummary}</p>
+            </Card>
 
             {report.financeData.length > 0 && (
               <Card className="p-5">

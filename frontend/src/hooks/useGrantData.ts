@@ -23,9 +23,10 @@ export function useGrantReport(grantId: string | null, month: string | null) {
   const [error, setError] = useState<string | null>(null);
 
   const load = useCallback(async () => {
-    if (!grantId) return;
+    if (!grantId) { setData(null); return; }
     setLoading(true);
     setError(null);
+    setData(null);
     try {
       const result = await fetchGrantReport(grantId, month ?? undefined);
       setData(result);
