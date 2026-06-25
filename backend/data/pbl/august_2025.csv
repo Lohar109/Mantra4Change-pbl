@@ -1,0 +1,61 @@
+Reporting Month,School Name,School Code,District,Block,PBL Conducted,Evidence Submitted,Classes,Subject,Enrollment Class 6,Attendance Class 6 Science,Attendance Class 6 Math,Enrollment Class 7,Attendance Class 7 Science,Attendance Class 7 Math,Enrollment Class 8,Attendance Class 8 Science,Attendance Class 8 Math,Total Enrollment,Total Attendance,Attendance Rate,Risk Status
+August 2025,Govt Primary School Alanpur,SCH001,District A,Block 001,Yes,Yes,6-8,Science & Math,45,40,38,42,37,36,40,34,32,127,217,0.86,On Track
+August 2025,Govt Middle School Barakpur,SCH002,District A,Block 001,Yes,Yes,6-8,Science & Math,50,44,42,48,42,40,44,38,36,142,242,0.85,On Track
+August 2025,Govt Primary School Chandpur,SCH003,District A,Block 001,Yes,Yes,6-8,Science & Math,38,32,30,35,28,27,32,24,22,105,163,0.78,On Track
+August 2025,Govt High School Devipur,SCH004,District A,Block 002,Yes,Yes,6-8,Science & Math,55,50,48,52,46,44,50,44,42,157,274,0.87,On Track
+August 2025,Govt Primary School Ekalavya,SCH005,District A,Block 002,Yes,No,6-8,Science & Math,42,28,26,38,24,22,35,18,16,115,134,0.58,At Risk
+August 2025,Govt Middle School Fatehpur,SCH006,District A,Block 002,Yes,Yes,6-8,Science & Math,48,42,40,44,38,37,42,36,34,134,227,0.85,On Track
+August 2025,Govt Primary School Ganeshpur,SCH007,District A,Block 003,Yes,Yes,6-8,Science & Math,40,34,32,36,30,28,34,26,24,110,174,0.79,On Track
+August 2025,Govt High School Hanuman Nagar,SCH008,District A,Block 003,Yes,No,6-8,Science & Math,52,24,22,48,18,16,44,14,12,144,106,0.37,At Risk
+August 2025,Govt Primary School Indrapur,SCH009,District A,Block 003,Yes,Yes,6-8,Science & Math,46,40,38,42,36,34,40,34,32,128,214,0.84,On Track
+August 2025,Govt Middle School Jagdishpur,SCH010,District A,Block 003,Yes,Yes,6-8,Science & Math,44,38,37,40,35,33,38,32,30,122,205,0.84,On Track
+August 2025,Govt Primary School Kailashpur,SCH011,District B,Block 001,Yes,Yes,6-8,Science & Math,50,44,42,46,40,38,44,38,36,140,238,0.85,On Track
+August 2025,Govt High School Lakshmipur,SCH012,District B,Block 001,Yes,No,6-8,Science & Math,55,28,26,50,22,20,48,18,16,153,130,0.43,At Risk
+August 2025,Govt Primary School Madhavpur,SCH013,District B,Block 001,Yes,Yes,6-8,Science & Math,42,38,36,38,32,30,36,30,28,116,194,0.84,On Track
+August 2025,Govt Middle School Narsinghpur,SCH014,District B,Block 002,Yes,Yes,6-8,Science & Math,48,40,38,44,34,32,40,30,28,132,202,0.77,On Track
+August 2025,Govt Primary School Omkareshwar,SCH015,District B,Block 002,Yes,Yes,6-8,Science & Math,44,40,38,40,36,34,38,32,30,122,210,0.86,On Track
+August 2025,Govt High School Pratappur,SCH016,District B,Block 002,Yes,No,6-8,Science & Math,58,26,24,54,20,18,50,16,14,162,118,0.37,At Risk
+August 2025,Govt Primary School Rampur,SCH017,District B,Block 003,Yes,Yes,6-8,Science & Math,46,40,39,42,37,35,40,34,32,128,217,0.85,On Track
+August 2025,Govt Middle School Shivpur,SCH018,District B,Block 003,Yes,Yes,6-8,Science & Math,50,42,40,46,36,34,42,32,30,138,214,0.78,On Track
+August 2025,Govt Primary School Triveni,SCH019,District B,Block 003,Yes,No,6-8,Science & Math,40,22,20,36,16,14,34,12,10,110,94,0.43,At Risk
+August 2025,Govt High School Udaipur,SCH020,District B,Block 003,Yes,Yes,6-8,Science & Math,52,46,44,48,42,40,46,40,38,146,250,0.86,On Track
+August 2025,Govt Primary School Varanasi Gram,SCH021,District C,Block 001,Yes,Yes,6-8,Science & Math,48,42,40,44,38,36,42,36,34,134,226,0.85,On Track
+August 2025,Govt Middle School Warangal,SCH022,District C,Block 001,Yes,Yes,6-8,Science & Math,54,48,46,50,44,42,48,42,40,152,262,0.86,On Track
+August 2025,Govt Primary School Yadavpur,SCH023,District C,Block 001,Yes,No,6-8,Science & Math,36,18,16,32,14,12,30,10,8,98,78,0.40,At Risk
+August 2025,Govt High School Zafarnagar,SCH024,District C,Block 002,Yes,Yes,6-8,Science & Math,60,52,50,56,48,46,52,44,42,168,282,0.84,On Track
+August 2025,Govt Primary School Amarpur,SCH025,District C,Block 002,Yes,Yes,6-8,Science & Math,44,38,36,40,32,30,38,28,26,122,190,0.78,On Track
+August 2025,Govt Middle School Bharatpur,SCH026,District C,Block 002,Yes,Yes,6-8,Science & Math,50,44,42,46,40,38,44,38,36,140,238,0.85,On Track
+August 2025,Govt Primary School Chittor,SCH027,District C,Block 003,Yes,No,6-8,Science & Math,42,22,20,38,18,16,36,14,12,116,102,0.44,At Risk
+August 2025,Govt High School Dharampur,SCH028,District C,Block 003,Yes,Yes,6-8,Science & Math,56,50,48,52,46,44,50,44,42,158,274,0.87,On Track
+August 2025,Govt Primary School Eklavya,SCH029,District C,Block 003,Yes,Yes,6-8,Science & Math,40,34,32,36,28,26,34,24,22,110,166,0.75,On Track
+August 2025,Govt Middle School Fatehabad,SCH030,District C,Block 003,Yes,Yes,6-8,Science & Math,46,40,39,42,36,34,40,34,32,128,215,0.84,On Track
+August 2025,Govt Primary School Govindpur,SCH031,District D,Block 001,Yes,Yes,6-8,Science & Math,52,46,44,48,42,40,46,40,38,146,250,0.86,On Track
+August 2025,Govt High School Haripur,SCH032,District D,Block 001,Yes,Yes,6-8,Science & Math,58,52,50,54,48,46,52,46,44,164,286,0.87,On Track
+August 2025,Govt Primary School Indore Gram,SCH033,District D,Block 001,Yes,No,6-8,Science & Math,38,20,18,34,16,14,32,12,10,104,90,0.43,At Risk
+August 2025,Govt Middle School Jhansi Nagar,SCH034,District D,Block 002,Yes,Yes,6-8,Science & Math,46,38,36,42,32,30,40,28,26,128,190,0.74,Behind
+August 2025,Govt Primary School Khandwa,SCH035,District D,Block 002,Yes,Yes,6-8,Science & Math,44,40,38,40,36,34,38,32,30,122,210,0.86,On Track
+August 2025,Govt High School Lalitpur,SCH036,District D,Block 002,Yes,Yes,6-8,Science & Math,60,54,52,56,50,48,54,48,46,170,298,0.88,On Track
+August 2025,Govt Primary School Mandla,SCH037,District D,Block 003,Yes,No,6-8,Science & Math,42,20,18,38,16,14,36,12,10,116,90,0.39,At Risk
+August 2025,Govt Middle School Narsinghpur,SCH038,District D,Block 003,Yes,Yes,6-8,Science & Math,48,42,40,44,38,36,42,36,34,134,226,0.85,On Track
+August 2025,Govt Primary School Orchha,SCH039,District D,Block 003,Yes,Yes,6-8,Science & Math,50,42,40,46,34,32,44,30,28,140,206,0.74,Behind
+August 2025,Govt High School Panna,SCH040,District D,Block 003,Yes,Yes,6-8,Science & Math,54,48,46,50,44,42,48,42,40,152,262,0.86,On Track
+August 2025,Govt Primary School Rajgarh,SCH041,District E,Block 001,Yes,Yes,6-8,Science & Math,46,40,39,42,36,34,40,34,32,128,215,0.84,On Track
+August 2025,Govt Middle School Sagar,SCH042,District E,Block 001,Yes,Yes,6-8,Science & Math,52,46,45,48,42,40,46,40,38,146,251,0.86,On Track
+August 2025,Govt Primary School Tikamgarh,SCH043,District E,Block 001,Yes,No,6-8,Science & Math,40,20,18,36,16,14,34,12,10,110,90,0.41,At Risk
+August 2025,Govt High School Ujjain,SCH044,District E,Block 002,Yes,Yes,6-8,Science & Math,58,52,50,54,48,46,52,46,44,164,286,0.87,On Track
+August 2025,Govt Primary School Vidisha,SCH045,District E,Block 002,Yes,Yes,6-8,Science & Math,44,38,36,40,32,30,38,28,26,122,190,0.78,On Track
+August 2025,Govt Middle School Waraseoni,SCH046,District E,Block 002,Yes,Yes,6-8,Science & Math,50,44,42,46,40,38,44,38,36,140,238,0.85,On Track
+August 2025,Govt Primary School Yadavnagar,SCH047,District E,Block 003,Yes,No,6-8,Science & Math,36,18,16,32,14,12,30,10,8,98,78,0.40,At Risk
+August 2025,Govt High School Zaherabad,SCH048,District E,Block 003,Yes,Yes,6-8,Science & Math,56,50,48,52,46,44,50,44,42,158,274,0.87,On Track
+August 2025,Govt Primary School Alampur,SCH049,District E,Block 003,Yes,Yes,6-8,Science & Math,42,36,34,38,30,28,36,26,24,116,178,0.77,On Track
+August 2025,Govt Middle School Bareli,SCH050,District E,Block 003,Yes,Yes,6-8,Science & Math,48,42,40,44,38,36,42,36,34,134,226,0.85,On Track
+August 2025,Govt Primary School Chhatarpur,SCH051,District A,Block 001,Yes,Yes,6-8,Science & Math,44,38,37,40,34,32,38,32,30,122,203,0.83,On Track
+August 2025,Govt High School Damoh,SCH052,District B,Block 001,Yes,Yes,6-8,Science & Math,50,42,40,46,34,32,44,30,28,140,206,0.74,Behind
+August 2025,Govt Primary School Etawah,SCH053,District C,Block 002,Yes,No,6-8,Science & Math,38,20,18,34,16,14,32,12,10,104,90,0.43,At Risk
+August 2025,Govt Middle School Faizabad,SCH054,District D,Block 002,Yes,Yes,6-8,Science & Math,46,42,40,42,38,36,40,34,32,128,222,0.87,On Track
+August 2025,Govt Primary School Gonda,SCH055,District E,Block 001,Yes,Yes,6-8,Science & Math,52,46,44,48,42,40,46,40,38,146,250,0.86,On Track
+August 2025,Govt High School Hardoi,SCH056,District A,Block 002,Yes,No,6-8,Science & Math,60,28,26,56,22,20,52,18,16,168,130,0.39,At Risk
+August 2025,Govt Primary School Jalaun,SCH057,District B,Block 003,Yes,Yes,6-8,Science & Math,44,38,37,40,34,33,38,32,30,122,204,0.83,On Track
+August 2025,Govt Middle School Kannauj,SCH058,District C,Block 001,Yes,Yes,6-8,Science & Math,48,40,38,44,34,32,42,30,28,134,202,0.76,On Track
+August 2025,Govt Primary School Lakhimpur,SCH059,District D,Block 001,Yes,Yes,6-8,Science & Math,54,48,46,50,44,42,48,42,40,152,262,0.86,On Track
+August 2025,Govt High School Mahoba,SCH060,District E,Block 002,Yes,Yes,6-8,Science & Math,58,52,50,54,48,46,52,46,44,164,286,0.87,On Track

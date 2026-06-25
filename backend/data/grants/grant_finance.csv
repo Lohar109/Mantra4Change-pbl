@@ -1,0 +1,37 @@
+grant_id,donor,grant_name,period_start,period_end,covered_districts,reporting_month,budget_line,approved_budget_units,monthly_utilized_units,cumulative_utilized_units,cumulative_utilization_rate,finance_note
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",July 2025,Teacher Training,100,28,28,0.28,Within budget for training module
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",July 2025,Material & Supplies,200,45,45,0.225,Procurement initiated
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",July 2025,Community Engagement,80,18,18,0.225,Events held in both districts
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",July 2025,Staff Costs,150,38,38,0.253,Salaries disbursed on time
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",August 2025,Teacher Training,100,32,60,0.60,Two batches completed
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",August 2025,Material & Supplies,200,50,95,0.475,Mid-year reorder placed
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",August 2025,Community Engagement,80,20,38,0.475,Parent meetings conducted
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",August 2025,Staff Costs,150,38,76,0.507,On-track payroll
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",September 2025,Teacher Training,100,30,90,0.90,Advanced module nearing completion
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",September 2025,Material & Supplies,200,48,143,0.715,Q3 procurement complete
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",September 2025,Community Engagement,80,22,60,0.75,District B rally held
+GRANT_AA_2025,Donor AA,Education Excellence Program,2025-07-01,2026-03-31,"District A, District B",September 2025,Staff Costs,150,38,114,0.76,On-track
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",July 2025,Curriculum Development,120,30,30,0.25,First module drafted
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",July 2025,School Infrastructure,300,60,60,0.20,Renovation started in 5 schools
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",July 2025,Assessment Tools,90,20,20,0.222,Baseline assessment conducted
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",July 2025,Staff Costs,180,42,42,0.233,Payroll processed
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",August 2025,Curriculum Development,120,35,65,0.542,Second module completed
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",August 2025,School Infrastructure,300,72,132,0.44,8 more schools initiated
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",August 2025,Assessment Tools,90,24,44,0.489,Mid-term assessment done
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",August 2025,Staff Costs,180,42,84,0.467,On schedule
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",September 2025,Curriculum Development,120,32,97,0.808,All core modules ready
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",September 2025,School Infrastructure,300,70,202,0.673,Final touches on 12 schools
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",September 2025,Assessment Tools,90,22,66,0.733,Q3 evaluation complete
+GRANT_BB_2025,Donor BB,Learning Together Initiative,2025-07-01,2026-06-30,"District C, District D",September 2025,Staff Costs,180,42,126,0.70,On schedule
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,July 2025,Scholarship Fund,250,55,55,0.22,First disbursement to 18 students
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,July 2025,Mentorship Program,100,22,22,0.22,10 mentors onboarded
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,July 2025,Digital Resources,150,30,30,0.20,Tablets procured for 5 schools
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,July 2025,Staff Costs,120,28,28,0.233,Project staff deployed
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,August 2025,Scholarship Fund,250,60,115,0.46,Second cohort enrolled
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,August 2025,Mentorship Program,100,26,48,0.48,Sessions scaled to all blocks
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,August 2025,Digital Resources,150,38,68,0.453,Software licenses activated
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,August 2025,Staff Costs,120,28,56,0.467,On schedule
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,September 2025,Scholarship Fund,250,65,180,0.72,Q3 disbursement complete
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,September 2025,Mentorship Program,100,28,76,0.76,Career guidance sessions held
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,September 2025,Digital Resources,150,40,108,0.72,All schools digitally equipped
+GRANT_CC_2025,Donor CC,Future Scholars Program,2025-07-01,2025-12-31,District E,September 2025,Staff Costs,120,28,84,0.70,Quarterly review passed

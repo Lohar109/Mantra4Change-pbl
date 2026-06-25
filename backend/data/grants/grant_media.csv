@@ -1,0 +1,37 @@
+record_id,record_type,grant_id,reporting_month,district,title,summary_or_caption,file_name
+MED001,Photo,GRANT_AA_2025,July 2025,District A,PBL Session at Govt Primary School Alanpur,Students presenting their science project on water conservation to classmates and teachers,pbl_alanpur_july_science.jpg
+MED002,Photo,GRANT_AA_2025,July 2025,District B,Teacher Training Workshop Block 001,30 teachers attending orientation on project-based learning methodology,teacher_training_districtb_july.jpg
+MED003,Video,GRANT_AA_2025,July 2025,District A,Math Project Demo - Class 7,Class 7 students demonstrating a geometry project using locally sourced materials,math_demo_districtA_july.mp4
+MED004,Document,GRANT_AA_2025,July 2025,District B,Community Meeting Report Block 002,Attendance sheet and minutes from parent-community meeting discussing PBL outcomes,community_meeting_blockB002_july.pdf
+MED005,Photo,GRANT_AA_2025,August 2025,District A,Evidence Portfolio Display,Student evidence portfolios on display at school review day - 42 portfolios exhibited,evidence_display_districtA_aug.jpg
+MED006,Photo,GRANT_AA_2025,August 2025,District B,Block 003 School Visit,Program coordinator visiting Govt Middle School Shivpur for quality check,field_visit_shivpur_aug.jpg
+MED007,Video,GRANT_AA_2025,August 2025,District A,Science Experiment Documentation,Students documenting their PBL science experiment with photos and notes,science_exp_districtA_aug.mp4
+MED008,Document,GRANT_AA_2025,August 2025,District B,Monthly Progress Report August,Consolidated school-level progress report for District B covering all 3 blocks,progress_report_districtB_aug.pdf
+MED009,Photo,GRANT_AA_2025,September 2025,District A,PBL Exhibition Day,Annual PBL project exhibition attended by 200+ parents and community members,pbl_exhibition_districtA_sep.jpg
+MED010,Photo,GRANT_AA_2025,September 2025,District B,Best Practice Documentation,Documenting replicable PBL model from top-performing schools in District B,best_practice_districtB_sep.jpg
+MED011,Video,GRANT_AA_2025,September 2025,District A,Student Testimonials - Q3,Students sharing their learning experiences from 3-month PBL program,testimonials_districtA_sep.mp4
+MED012,Document,GRANT_AA_2025,September 2025,District B,Q3 Grant Narrative Report,Full narrative report with evidence, photos, and data for Donor AA Q3 reporting,q3_narrative_grantAA_sep.pdf
+MED013,Photo,GRANT_BB_2025,July 2025,District C,Infrastructure Renovation - 5 Schools,Before and after photos of classroom improvements in 5 schools,renovation_districtC_july.jpg
+MED014,Photo,GRANT_BB_2025,July 2025,District D,Baseline Assessment Administration,Students taking baseline learning assessment at Govt High School Haripur,baseline_assessment_districtD_july.jpg
+MED015,Video,GRANT_BB_2025,July 2025,District C,Curriculum Co-creation Workshop,Teachers co-creating PBL modules with NGO facilitators,curriculum_workshop_districtC_july.mp4
+MED016,Document,GRANT_BB_2025,July 2025,District D,Infrastructure Assessment Report,Site assessment for 10 additional schools shortlisted for renovation,infra_assessment_districtD_july.pdf
+MED017,Photo,GRANT_BB_2025,August 2025,District C,Mid-term Assessment Day,Students engaged in mid-term learning assessment across 12 schools,midterm_assessment_districtC_aug.jpg
+MED018,Photo,GRANT_BB_2025,August 2025,District D,New Classroom Inauguration,Community inauguration of renovated classroom at Govt Middle School Narsinghpur,inauguration_narsinghpur_aug.jpg
+MED019,Video,GRANT_BB_2025,August 2025,District C,Module 3 Pilot Lesson,Pilot delivery of Curriculum Module 3 on environmental science,module3_pilot_districtC_aug.mp4
+MED020,Document,GRANT_BB_2025,August 2025,District D,Q2 Milestone Report,Milestone completion documentation for Donor BB mid-year review,milestone_report_districtD_aug.pdf
+MED021,Photo,GRANT_BB_2025,September 2025,District C,Q3 Evaluation Results Presentation,Program team presenting Q3 evaluation findings to district education officers,eval_presentation_districtC_sep.jpg
+MED022,Photo,GRANT_BB_2025,September 2025,District D,Infrastructure Completion Ceremony,All 12 renovated schools celebrated with community event,infra_completion_districtD_sep.jpg
+MED023,Video,GRANT_BB_2025,September 2025,District C,Student Learning Showcase,Students showcasing PBL projects across science and math subjects,learning_showcase_districtC_sep.mp4
+MED024,Document,GRANT_BB_2025,September 2025,District D,Q3 Grant Narrative Report,Comprehensive Q3 report for Donor BB including impact data and photos,q3_narrative_grantBB_sep.pdf
+MED025,Photo,GRANT_CC_2025,July 2025,District E,Scholarship Selection Process,Scholarship selection committee reviewing applications from 30+ students,scholarship_selection_districtE_july.jpg
+MED026,Photo,GRANT_CC_2025,July 2025,District E,Digital Tablet Distribution,Students receiving digital tablets at Govt High School Zaherabad,tablet_distribution_districtE_july.jpg
+MED027,Video,GRANT_CC_2025,July 2025,District E,Mentor Introduction Session,First mentorship session with 10 onboarded mentors and scholarship students,mentor_intro_districtE_july.mp4
+MED028,Document,GRANT_CC_2025,July 2025,District E,Scholarship Disbursement Record,Signed acknowledgement forms from 18 scholarship recipients,scholarship_disbursement_july.pdf
+MED029,Photo,GRANT_CC_2025,August 2025,District E,Mentorship Session - Block 002,Group mentorship session with 12 students at Govt Middle School Sagar,mentorship_block002_aug.jpg
+MED030,Photo,GRANT_CC_2025,August 2025,District E,Digital Learning Lab Opening,Opening of digital learning lab equipped with tablets and internet access,digital_lab_districtE_aug.jpg
+MED031,Video,GRANT_CC_2025,August 2025,District E,Student Achievement Stories,Four scholarship students sharing how the program changed their learning journey,achievement_stories_districtE_aug.mp4
+MED032,Document,GRANT_CC_2025,August 2025,District E,Mentorship Progress Report,Monthly report on mentorship activities and student progress tracking,mentorship_report_aug.pdf
+MED033,Photo,GRANT_CC_2025,September 2025,District E,Career Guidance Workshop,50 students attending career guidance workshop facilitated by industry professionals,career_guidance_districtE_sep.jpg
+MED034,Photo,GRANT_CC_2025,September 2025,District E,Full Scholarship Cohort Group Photo,All 36 scholarship students with program staff and mentors,scholarship_cohort_districtE_sep.jpg
+MED035,Video,GRANT_CC_2025,September 2025,District E,Q3 Impact Documentary,Short documentary on program impact featuring students parents and teachers,impact_documentary_districtE_sep.mp4
+MED036,Document,GRANT_CC_2025,September 2025,District E,Q3 Grant Narrative Report,Comprehensive Q3 narrative report for Donor CC with impact evidence,q3_narrative_grantCC_sep.pdf
