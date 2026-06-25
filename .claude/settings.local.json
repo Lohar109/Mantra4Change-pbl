@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(Stop-Job *)"
+      "PowerShell(Stop-Job *)",
+      "Bash(git add *)"
     ]
   }
 }
