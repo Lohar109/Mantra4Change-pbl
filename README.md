@@ -2,6 +2,11 @@
 
 A full-stack web application for monitoring Project-Based Learning (PBL) programs across schools, generating grant reports, and providing leadership review summaries.
 
+## Live Demo
+
+- **Frontend**: https://mantra4-change-pbl.vercel.app/
+- **Backend API**: https://mantra4change-pbl-ewv7.onrender.com
+
 ---
 
 ## Architecture
